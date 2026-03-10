@@ -1939,6 +1939,7 @@ _Related: [Software Development - Low Code](#software-development---low-code)_
 - [Wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile and desktop PWA command center for controlling AI coding agents (Claude, Codex, Gemini, or custom) via tmux sessions across multiple machines, secured by Tailscale. ([Source Code](https://github.com/almogdepaz/wolfpack)) `MIT` `Bun`
 
 
+- [Wolfpack](https://wolfpack.almogdepaz.com) - Mobile and desktop command center for AI coding agents (Claude, Codex, Gemini). Control tmux sessions across machines from your phone, secured by Tailscale — no open ports required. ([Source Code](https://github.com/almogdepaz/wolfpack)) `MIT` `Nodejs/TypeScript`
 ### Software Development - Localization
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
